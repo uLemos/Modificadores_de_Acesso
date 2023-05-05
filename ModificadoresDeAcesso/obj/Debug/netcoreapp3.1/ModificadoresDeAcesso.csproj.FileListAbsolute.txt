@@ -1,0 +1,14 @@
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\netcoreapp3.1\ModificadoresDeAcesso.exe
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\netcoreapp3.1\ModificadoresDeAcesso.deps.json
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\netcoreapp3.1\ModificadoresDeAcesso.runtimeconfig.json
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\netcoreapp3.1\ModificadoresDeAcesso.runtimeconfig.dev.json
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\netcoreapp3.1\ModificadoresDeAcesso.dll
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\bin\Debug\netcoreapp3.1\ModificadoresDeAcesso.pdb
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.csproj.AssemblyReference.cache
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.AssemblyInfo.cs
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.dll
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.pdb
+C:\Users\fekel\source\repos\ModificadoresDeAcesso\ModificadoresDeAcesso\obj\Debug\netcoreapp3.1\ModificadoresDeAcesso.genruntimeconfig.cache
